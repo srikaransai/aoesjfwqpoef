@@ -1,0 +1,11 @@
+body {
+    background-size:cover;
+
+}
+#Mycanvas{
+    background-color: white;
+    border-radius:20px;
+    border-style:ridge;
+    border-width:15;
+    
+}
